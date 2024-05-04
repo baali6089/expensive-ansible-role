@@ -6,3 +6,6 @@ backend.harish.fun
 
 [frontend]
 frontend.harish.fun
+
+[all:vars]
+ansible_password=DevOps321
