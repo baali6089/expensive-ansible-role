@@ -1,0 +1,4 @@
+login_user: root
+login_password: ExpensiveApp@1
+login_host: db.harish.fun
+DB_HOST: db.harish.fun
