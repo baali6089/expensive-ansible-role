@@ -16,10 +16,10 @@
   ansible.builtin.user:
     name: expense
 
-- name: run all inone  
+- name: run allinone  
   ansible.builtin.import_role:
      name: common
-     task_form: allinone  
+     task_from: allinone  
 
 #- name: create app directory
 # ansible.builtin.file:
