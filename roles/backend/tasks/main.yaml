@@ -19,7 +19,7 @@
 - name: run allinone  
   ansible.builtin.import_role:
      name: common
-     task_from: allinone  
+     tasks_from: allinone  
 
 #- name: create app directory
 # ansible.builtin.file:
