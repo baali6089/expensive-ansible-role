@@ -1,1 +1,3 @@
 mysql_root_password: ExpensiveApp@1
+component: frontend
+app_location: /usr/share/nginx/html
