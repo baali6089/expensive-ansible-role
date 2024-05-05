@@ -12,7 +12,7 @@
 - name: run all inone  
   ansible.builtin.import_role:
      name: common
-     task_form: allinone      
+     tasks_from: allinone      
 
 #- name: delete default website
 #  ansible.builtin.file:
